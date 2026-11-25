@@ -1,0 +1,127 @@
+clinvar_id,wt,pos,mt,classificazione,revisione,label,fonte,nome_hgvs,nome_classico,fold,data_estrazione
+2681628,Y,134,N,Likely benign,no assertion criteria provided,0.0,ClinVar,p.Y134N,Y114N,4,2026-11-18
+181706,K,146,R,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",0.0,ClinVar,p.K146R,K126R,4,2026-11-18
+13452,G,26,S,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",0.0,ClinVar,p.G26S,G6S,0,2026-11-18
+4840856,A,65,S,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.A65S,A45S,4,2026-11-18
+4710458,Y,134,S,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.Y134S,Y114S,4,2026-11-18
+4710457,I,88,L,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.I88L,I68L,0,2026-11-18
+4751063,I,127,T,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.I127T,I107T,2,2026-11-18
+4775502,E,82,V,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.E82V,E62V,3,2026-11-18
+4542259,T,95,A,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.T95A,T75A,0,2026-11-18
+4292006,F,64,Y,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.F64Y,F44Y,1,2026-11-18
+4193819,V,48,M,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V48M,V28M,0,2026-11-18
+3901847,P,31,L,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.P31L,P11L,2,2026-11-18
+3723125,F,53,C,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.F53C,F33C,4,2026-11-18
+3664844,I,88,M,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.I88M,I68M,0,2026-11-18
+4695352,T,126,I,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.T126I,T106I,2,2026-11-18
+4722536,Y,98,H,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.Y98H,Y78H,4,2026-11-18
+3621650,A,140,V,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.A140V,A120V,0,2026-11-18
+3464275,E,109,D,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E109D,E89D,2,2026-11-18
+3338365,T,79,I,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.T79I,T59I,3,2026-11-18
+3338803,G,87,E,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G87E,G67E,4,2026-11-18
+2920997,T,69,P,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.T69P,T49P,3,2026-11-18
+2916831,K,90,E,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.K90E,K70E,2,2026-11-18
+2762712,E,109,G,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.E109G,E89G,2,2026-11-18
+2736721,I,104,N,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.I104N,I84N,0,2026-11-18
+2584356,D,38,Y,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.D38Y,D18Y,1,2026-11-18
+2169603,K,90,Q,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.K90Q,K70Q,2,2026-11-18
+2169600,V,40,A,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V40A,V20A,2,2026-11-18
+2138147,T,126,N,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.T126N,T106N,2,2026-11-18
+2138145,K,55,N,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.K55N,K35N,4,2026-11-18
+2138144,V,50,L,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V50L,V30L,4,2026-11-18
+3649160,T,80,N,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.T80N,T60N,2,2026-11-18
+4615388,F,84,I,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.F84I,F64I,4,2026-11-18
+1799566,L,78,V,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.L78V,L58V,1,2026-11-18
+1797565,S,97,F,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.S97F,S77F,3,2026-11-18
+1770339,A,45,S,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.A45S,A25S,3,2026-11-18
+1712259,E,74,L,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E74L,E54L,0,2026-11-18
+1524375,H,110,D,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.H110D,H90D,3,2026-11-18
+1519705,E,74,A,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.E74A,E54A,0,2026-11-18
+1490986,C,30,Y,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.C30Y,C10Y,1,2026-11-18
+1458932,D,58,V,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.D58V,D38V,2,2026-11-18
+1454801,T,69,I,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.T69I,T49I,3,2026-11-18
+1452255,I,104,T,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.I104T,I84T,0,2026-11-18
+1359774,D,38,E,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.D38E,D18E,1,2026-11-18
+1333466,V,142,A,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V142A,V122A,3,2026-11-18
+1294424,Y,98,F,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.Y98F,Y78F,4,2026-11-18
+1178327,S,72,P,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.S72P,S52P,2,2026-11-18
+1075408,W,61,L,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.W61L,W41L,3,2026-11-18
+1075407,L,32,V,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.L32V,L12V,2,2026-11-18
+1073325,I,127,M,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.I127M,I107M,2,2026-11-18
+1073324,E,109,K,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E109K,E89K,2,2026-11-18
+1068392,E,62,D,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E62D,E42D,1,2026-11-18
+1067500,F,84,S,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.F84S,F64S,4,2026-11-18
+1067499,G,73,R,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G73R,G53R,3,2026-11-18
+1066429,T,60,N,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.T60N,T40N,0,2026-11-18
+1006084,G,87,R,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G87R,G67R,4,2026-11-18
+965016,A,56,D,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.A56D,A36D,1,2026-11-18
+962411,D,58,H,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.D58H,D38H,2,2026-11-18
+948928,P,44,L,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.P44L,P24L,3,2026-11-18
+944589,V,52,A,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V52A,V32A,2,2026-11-18
+941337,L,75,R,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.L75R,L55R,0,2026-11-18
+938206,G,67,V,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G67V,G47V,1,2026-11-18
+853918,H,108,R,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.H108R,H88R,1,2026-11-18
+2057055,A,117,D,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.A117D,A97D,2,2026-11-18
+2014715,F,84,Y,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.F84Y,F64Y,4,2026-11-18
+846359,E,109,V,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E109V,E89V,2,2026-11-18
+850453,A,65,T,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.A65T,A45T,4,2026-11-18
+811803,E,74,G,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E74G,E54G,0,2026-11-18
+845368,F,84,L,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.F84L,F64L,4,2026-11-18
+803481,G,67,E,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G67E,G47E,1,2026-11-18
+661615,S,43,N,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.S43N,S23N,3,2026-11-18
+660445,G,77,R,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G77R,G57R,1,2026-11-18
+840757,R,54,T,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.R54T,R34T,0,2026-11-18
+644083,D,58,A,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.D58A,D38A,2,2026-11-18
+636837,E,74,K,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E74K,E54K,0,2026-11-18
+577420,T,80,I,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.T80I,T60I,2,2026-11-18
+572472,E,81,G,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E81G,E61G,3,2026-11-18
+571867,D,38,N,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.D38N,D18N,1,2026-11-18
+565560,A,39,D,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.A39D,A19D,1,2026-11-18
+803482,I,93,V,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.I93V,I73V,1,2026-11-18
+538164,T,69,S,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.T69S,T49S,3,2026-11-18
+495841,E,82,K,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E82K,E62K,3,2026-11-18
+448842,E,74,Q,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E74Q,E54Q,0,2026-11-18
+448841,A,65,V,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.A65V,A45V,4,2026-11-18
+181702,A,65,D,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.A65D,A45D,4,2026-11-18
+181701,E,74,S,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E74S,E54S,0,2026-11-18
+181700,Y,136,S,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.Y136S,Y116S,0,2026-11-18
+181694,T,79,K,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.T79K,T59K,3,2026-11-18
+181693,P,44,S,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.P44S,P24S,3,2026-11-18
+36890,S,70,R,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.S70R,S50R,4,2026-11-18
+13468,A,117,S,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.A117S,A97S,2,2026-11-18
+13466,Y,89,H,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.Y89H,Y69H,4,2026-11-18
+13465,V,50,G,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.V50G,V30G,4,2026-11-18
+13463,D,38,G,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.D38G,D18G,1,2026-11-18
+660385,R,54,G,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.R54G,R34G,0,2026-11-18
+13462,G,73,E,Pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.G73E,G53E,3,2026-11-18
+13461,F,64,S,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.F64S,F44S,1,2026-11-18
+13457,L,32,P,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.L32P,L12P,2,2026-11-18
+13459,G,67,R,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.G67R,G47R,1,2026-11-18
+13456,F,53,L,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.F53L,F33L,4,2026-11-18
+13455,V,40,I,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V40I,V20I,2,2026-11-18
+13451,G,67,A,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.G67A,G47A,1,2026-11-18
+13450,I,127,V,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.I127V,I107V,2,2026-11-18
+13449,Y,134,H,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.Y134H,Y114H,4,2026-11-18
+13448,A,117,G,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.A117G,A97G,2,2026-11-18
+13447,E,81,K,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E81K,E61K,3,2026-11-18
+13445,V,91,A,Pathogenic/Likely pathogenic,no assertion criteria provided,1.0,ClinVar,p.V91A,V71A,4,2026-11-18
+13444,C,30,R,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.C30R,C10R,1,2026-11-18
+13443,K,90,N,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.K90N,K70N,2,2026-11-18
+13442,E,109,Q,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.E109Q,E89Q,2,2026-11-18
+13441,T,69,A,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.T69A,T49A,3,2026-11-18
+13439,S,70,I,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.S70I,S50I,4,2026-11-18
+13438,L,75,P,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.L75P,L55P,0,2026-11-18
+13437,A,45,T,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.A45T,A25T,3,2026-11-18
+13435,L,78,R,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.L78R,L58R,1,2026-11-18
+13432,A,56,P,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.A56P,A36P,1,2026-11-18
+13430,V,50,A,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V50A,V30A,4,2026-11-18
+13428,E,62,G,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.E62G,E42G,1,2026-11-18
+13426,V,142,I,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V142I,V122I,3,2026-11-18
+13424,L,131,M,Likely pathogenic,"criteria provided, single submitter",1.0,ClinVar,p.L131M,L111M,1,2026-11-18
+13423,I,104,S,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.I104S,I84S,0,2026-11-18
+13422,S,97,Y,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.S97Y,S77Y,3,2026-11-18
+13421,T,80,A,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.T80A,T60A,2,2026-11-18
+13420,L,78,H,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.L78H,L58H,1,2026-11-18
+13419,Y,134,C,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.Y134C,Y114C,4,2026-11-18
+13418,F,53,I,Pathogenic,no assertion criteria provided,1.0,ClinVar,p.F53I,F33I,4,2026-11-18
+13417,V,50,M,Pathogenic,"criteria provided, multiple submitters, no conflicts",1.0,ClinVar,p.V50M,V30M,4,2026-11-18
